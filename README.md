@@ -2,7 +2,6 @@
 
 
 
-###  Serverless Redis
 [Upstash:](https://upstash.com)
 Run Redis without thinking about the servers. 
 
