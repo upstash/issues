@@ -1,27 +1,26 @@
-# Upstash Issue Tracker
+### Upstash Roadmap
+
 
 Welcome 👋  
 
-This repository is the central place to report and track **issues, feedback, and feature requests** related to [Upstash](https://upstash.com).  
+This repo is hosting discussions for what we’re building, what’s already live, and what might come next - together with your feedback. 💡
 
-If you encounter problems that are specific to a single SDK (Redis, QStash, Workflows, Vector, etc.), please report the issues on that SDK's repo.
+## 🚀 What You’ll Find Here
+- **In Progress** - Things we’re actively working on right now.
+- **Deployed** - Features that are finished and already available.
+- **Feature Request** - Ideas we’re considering for the future. You can vote and comment here to tell us what’s most important to you!
+_(Heads up: not everything in the **feature request** will make it to production - we pick based on overall demand and what benefits most users.)_
 
-Otherwise if you’re unsure where to post, this is the right place.
 
----
+## 💬 Want to Suggest Something New?
+If you have an idea that’s not listed here, we’d love to hear it!
+You can reach us anytime through:
 
-## 📝 How to report
-1. Check [existing issues](https://github.com/upstash/issues/issues) to avoid duplicates.  
-2. Open a [new issue](https://github.com/upstash/issues/issues/new) with:  
-   - A clear description of the problem or request  
-   - Steps to reproduce (if applicable)  
-   - Expected vs. actual behavior  
-   - Any relevant screenshots, logs, or context  
+- 💬 [Discord](https://upstash.com/discord)
+- 💻 Chat popup on [our website](https://upstash.com/)
+- ✉️ [support@upstash.com](mailto:support@upstash.com)
 
----
+**For SDK specific issues** → please use the repo of that SDK (e.g., [`@upstash/redis`](https://github.com/upstash/redis-js), [`@upstash/qstash`](https://github.com/upstash/qstash-js)).  
 
-## 🚀 Other support channels
-- **SDK specific issues** → please use the repo of that SDK (e.g., [`@upstash/redis`](https://github.com/upstash/redis-js), [`@upstash/qstash`](https://github.com/upstash/qstash-js)).  
-- **Urgent support** → reach out via [Upstash support](https://upstash.com/contact).  
-- **Docs** → [Upstash Documentation](https://docs.upstash.com).  
+Thanks for helping us shape the future of Upstash! 💙
 
